@@ -1,12 +1,19 @@
 /**
  * Main Style Sheet
- * Site Name
+ * PosSum Systems
  *
- * Copyright (c) 2015. by Way2CU, http://way2cu.com
- * Authors:
+ * Copyright (c) 2016. by Way2CU, http://way2cu.com
+ * Authors: Mladen Mijatov
  */
 
 body {
-	background-color: white;
-	color: black;
+	padding-top: 400px;
+
+	background-color: #37B1D4;
+	background-image: url(../images/cover.png);
+	background-position: center top;
+	background-repeat: no-repeat;
+
+	color: white;
+	text-align: center;
 }
